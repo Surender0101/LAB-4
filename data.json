@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "name": "Surender",
+            "roll": "21BCS126",
+            "major": "CSE"
+        },
+        {
+            "name": "Naveen",
+            "roll": "21BTT020",
+            "major": "TT"
+        },
+        {
+            "name": "Sivaprasad",
+            "roll": "21BME080",
+            "major": "MECH"
+        }
+    ]
+}
